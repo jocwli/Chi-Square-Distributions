@@ -4,6 +4,10 @@
   - Test goodness of fit
   - Test independence
   - Determines critical regions and confidence intervals
+ 2. Chi-square distributions ca n find probabilities (similar to Gamma distributions)
+  
+  Example questions Chi-square can answer:
+  - 
   
 ## Repo Project using Chi-square distribution
 
