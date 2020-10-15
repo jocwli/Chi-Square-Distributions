@@ -14,6 +14,7 @@
 
 ## Statistical definition of Chi-square statistic
 The Chi-square statistic compares the frequencies of observed with expected throughout a contignecy table. The greater the departure of two frequencies, means the greater the confidnce that there exists a relationship between two variables.
+
 Chi-square statistic = SUM(expected - observed / expected)^2
 
 ## Statistical definition of Chi-square distributions
