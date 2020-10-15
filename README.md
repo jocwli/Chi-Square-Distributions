@@ -8,7 +8,11 @@
   
   Example questions Chi-square can answer:
   - 
-  
+## Limits in using Chi-square:
+- It only pertains to probability of existence of a relationship in variables
+- It can be misinterpreted as strength of relationships, it doesn't account for magnitude
+- It should be used in combo with other techniques
+
 ## Repo Project using Chi-square distribution
 
 
