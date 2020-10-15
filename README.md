@@ -4,7 +4,7 @@
   - Test goodness of fit
   - Test independence
   - Determines critical regions and confidence intervals
- 2. Chi-square distributions ca n find probabilities (similar to Gamma distributions)
+2. Chi-square distributions can find probabilities (similar to Gamma distributions)
   
   Example questions Chi-square can answer:
   - 
@@ -16,6 +16,10 @@
 The Chi-square statistic compares the frequencies of observed with expected throughout a contignecy table. The greater the departure of two frequencies, means the greater the confidnce that there exists a relationship between two variables.
 
 Chi-square statistic = SUM(expected - observed / expected)^2
+
+Hypothesis Testing rules:
+- If chi-square value > chi-square distribution, then reject Null Hypothesis.
+- If chi-square value < chi-square distribution, then accept Null Hypothesis.
 
 ## Statistical definition of Chi-square distributions
 Chi-square distributions are special cases of Gamma distributions and are positively skewed with support of x>=0.
