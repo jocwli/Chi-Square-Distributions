@@ -10,7 +10,7 @@ The chi-square distribution is used in many cases for the critical regions for h
 ## Statistical definition of Chi-square distributions
 Chi-square distributions are special cases of Gamma distributions and are positively skewed with support of x>=0.
 
-Mathematical notation is X~Gamma(r/2, 2) or X~X^2(r), where alpha= r/2, theta = 2, r = degrees of freedom.
+Mathematical notation is X~ Gamma(r/2, 2) or X~ X^2(r), where alpha= r/2, theta = 2, r = degrees of freedom.
 
 PDF of Chi-square = f(x)= (1/ Gamma (r/2) 2^(r/2)) x^(r/2 -1) (e^(-x/2))
 
