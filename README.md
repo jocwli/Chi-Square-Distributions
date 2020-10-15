@@ -22,7 +22,7 @@ Chi-squared distributions are used with continuous data.
 2. Chi-square distributions can find probabilities associated to the critical values 
   - For example...
 
-### Limits in using Chi-square
+### Limitations using Chi-square
 - It only pertains to probability of existence of a relationship in variables
 - It can be misinterpreted as strength of relationships, it doesn't account for magnitude
 - It should be used in combo with other techniques
