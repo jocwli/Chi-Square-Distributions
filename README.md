@@ -11,12 +11,12 @@
 ### When should we use Chi-square distributions for modeling?
 1. Chi-square distributions most commonly is used in hypothesis testing:
   - Test goodness of fit: tests whether observed frequency fits expected frequency distribution that is based on theoretical/ known probability of each outcome
-    Null= data is consistent, population frequencies equal expected
-    Alternative= data is not consistent
+    - Null= data is consistent, population frequencies equal expected
+    - Alternative= data is not consistent
   
   - Test independence: 
-    Null= 2 variables are indpendent
-    Alternative= 2 variables are dependent
+    - Null= 2 variables are indpendent
+    - Alternative= 2 variables are dependent
   - Determines critical regions and confidence intervals
 2. Chi-square distributions can find probabilities associated to the critical values 
   - For example...
