@@ -13,7 +13,7 @@
   - Test goodness of fit: tests whether observed frequency fits expected frequency distribution that is based on theoretical/ known probability of each outcome
   - Test independence: 
   - Determines critical regions and confidence intervals
-2. Chi-square distributions can find probabilities (similar to Gamma distributions)
+2. Chi-square distributions can find probabilities associated to the critical values 
   - For example...
 
 ### Limits in using Chi-square
