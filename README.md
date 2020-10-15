@@ -7,6 +7,9 @@
 
 The chi-square distribution is used in many cases for the critical regions for hypothesis tests and in determining confidence intervals. 
 
+## Repo Project using Chi-square distribution
+
+
 ## Statistical definition of Chi-square distributions
 Chi-square distributions are special cases of Gamma distributions and are positively skewed with support of x>=0.
 
