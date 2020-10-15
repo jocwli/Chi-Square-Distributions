@@ -1,6 +1,11 @@
 # Chi-Square-Distributions
 ### Repo Project:
-
+- Dataset used:
+- What sampling was done?
+- Null Hypothesis:
+- Alternative Hypothesis:
+- Alpha level:
+- Results:
 
 ## Background
 ### When should we use Chi-square distributions for modeling?
