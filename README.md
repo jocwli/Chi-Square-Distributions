@@ -8,9 +8,8 @@
   - Test independence
   - Determines critical regions and confidence intervals
 2. Chi-square distributions can find probabilities (similar to Gamma distributions)
-  
-  Example questions Chi-square can answer:
-  - 
+  - For example...
+
 ### Limits in using Chi-square:
 - It only pertains to probability of existence of a relationship in variables
 - It can be misinterpreted as strength of relationships, it doesn't account for magnitude
