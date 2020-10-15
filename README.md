@@ -1,7 +1,8 @@
 # Chi-Square-Distributions
-### Repo Project summary:
+### Repo Project:
 
-## Background ---
+
+## Background
 ### When should we use Chi-square distributions for modeling?
 1. Chi-square distributions most commonly is used in hypothesis testing:
   - Test goodness of fit
@@ -10,7 +11,7 @@
 2. Chi-square distributions can find probabilities (similar to Gamma distributions)
   - For example...
 
-### Limits in using Chi-square:
+### Limits in using Chi-square
 - It only pertains to probability of existence of a relationship in variables
 - It can be misinterpreted as strength of relationships, it doesn't account for magnitude
 - It should be used in combo with other techniques
