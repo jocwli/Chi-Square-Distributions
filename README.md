@@ -1,8 +1,7 @@
 # Chi-Square-Distributions
 ## When should we use Chi-square distributions for modeling?
-1. Chi-square distributions can be used to find the probabilty of the 
-2. Test population variance
-3. Test goodness of fit in categorical data
+1. Chi-square distributions most commonly is used in hypothesis testing
+- Test goodness of fit in categorical data: 
 4. Test independence
 
 The chi-square distribution is used in many cases for the critical regions for hypothesis tests and in determining confidence intervals. 
