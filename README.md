@@ -37,7 +37,7 @@ Hypothesis Testing rules:
 - If chi-square value < chi-square distribution, then accept Null Hypothesis.
 
 ### Statistical definition of Chi-square distributions
-Chi-square distributions are special cases of Gamma distributions and are positively skewed with support of x>=0.
+These mathematical elements are important to understand which R functions to code. Chi-square distributions are special cases of Gamma distributions and are positively skewed with support of x>=0.
 
 Mathematical notation is X~ Gamma(r/2, 2) or X~ X^2(r), where alpha= r/2, theta = 2, r = degrees of freedom.
 
