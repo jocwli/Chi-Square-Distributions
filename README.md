@@ -12,6 +12,10 @@
 ## Repo Project using Chi-square distribution
 
 
+## Statistical definition of Chi-square statistic
+The Chi-square statistic compares the frequencies of observed with expected throughout a contignecy table. The greater the departure of two frequencies, means the greater the confidnce that there exists a relationship between two variables.
+Chi-square statistic = SUM(expected - observed / expected)^2
+
 ## Statistical definition of Chi-square distributions
 Chi-square distributions are special cases of Gamma distributions and are positively skewed with support of x>=0.
 
