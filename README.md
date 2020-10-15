@@ -1,4 +1,8 @@
 # Chi-Square-Distributions
+### Content
+ 
+## Repo Project using Chi-square distribution
+
 ## When should we use Chi-square distributions for modeling?
 1. Chi-square distributions most commonly is used in hypothesis testing:
   - Test goodness of fit
@@ -12,9 +16,6 @@
 - It only pertains to probability of existence of a relationship in variables
 - It can be misinterpreted as strength of relationships, it doesn't account for magnitude
 - It should be used in combo with other techniques
-
-## Repo Project using Chi-square distribution
-
 
 ## Statistical definition of Chi-square statistic
 The Chi-square statistic compares the frequencies of observed with expected throughout a contignecy table. The greater the departure of two frequencies, means the greater the confidnce that there exists a relationship between two variables.
